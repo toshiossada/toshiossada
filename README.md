@@ -49,17 +49,17 @@ class Developer{
     name = 'Toshi Ossada';
     email = 'toshiossada@gmail.com';
     social = [
-    'https://toshiossada.medium.com/',
-    'https://instagram.com/toshiossada',    
-    'https://www.facebook.com/ToshiOssada/',    
-	];
+	    'https://toshiossada.medium.com/',
+	    'https://instagram.com/toshiossada',    
+	    'https://www.facebook.com/ToshiOssada/',    
+    ];
     code = {
         'mobile': ['Flutter'],
         'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript'],
         'backend': ['.NET', 'Shelf', 'PHP'],
         'database': ['SQL SERVER', 'MySQL', 'Oracle', 'Mongo DB'],
         'devops': ['Docker','GitHub Actions'],
-        'tools': ['GIT', 'GitHub', 'GitLab', 'SVN', 'Azure DevOps', 'SVN'],
+        'tools': ['GIT', 'GitHub', 'GitLab', 'BitBucket', 'SVN', 'Azure DevOps', 'SVN'],
         'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture']
     };  
   }

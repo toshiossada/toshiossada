@@ -50,9 +50,10 @@ class Developer{
     name = 'Toshi Ossada';
     email = 'toshiossada@gmail.com';
     social = [
+	    'https://www.linkedin.com/in/toshiossada/',	
 	    'https://toshiossada.medium.com/',
-	    'https://instagram.com/toshiossada',    
-	    'https://www.facebook.com/ToshiOssada/',    
+	    'https://instagram.com/toshiossada',
+	    'https://www.facebook.com/ToshiOssada/',
     ];
     code = {
         'mobile': ['Flutter'],

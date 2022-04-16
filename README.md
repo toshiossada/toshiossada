@@ -50,6 +50,7 @@ class Developer{
     name = 'Toshi Ossada';
     email = 'toshiossada@gmail.com';
     social = [
+	    'https://toshiossada.dev/',	
 	    'https://www.linkedin.com/in/toshiossada/',	
 	    'https://toshiossada.medium.com/',
 	    'https://instagram.com/toshiossada',

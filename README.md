@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSHARP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-  <a href="http://toshiossada.com/"><img align="right" alt="Toshi-yoda" height="120"   src="https://avatars.githubusercontent.com/u/2637049?v=4"></a>
+  <a href="http://toshiossada.dev/"><img align="right" alt="Toshi-yoda" height="120"   src="https://avatars.githubusercontent.com/u/2637049?v=4"></a>
 </div>
   
   

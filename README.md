@@ -37,6 +37,7 @@ https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&l
 
 
 ```dart
+@CoOrganizer('Flutterando')	
 class Developer {
   final String username;
   final String name;
@@ -74,7 +75,6 @@ class Developer {
           'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture']
         };
 }
-	
 ```
 
 

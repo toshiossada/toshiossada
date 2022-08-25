@@ -62,7 +62,7 @@ class Developer{
         'backend': ['.NET', 'Shelf', 'PHP'],
         'database': ['SQL SERVER', 'MySQL', 'Oracle', 'Mongo DB'],
         'devops': ['Docker','GitHub Actions'],
-        'tools': ['GIT', 'GitHub', 'GitLab', 'BitBucket', 'SVN', 'Azure DevOps', 'SVN'],
+        'tools': ['GIT', 'GitHub', 'GitLab', 'BitBucket', 'SVN', 'Azure DevOps'],
         'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture']
     };  
   }

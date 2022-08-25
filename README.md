@@ -37,35 +37,44 @@ https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&l
 
 
 ```dart
-@CoOrganizer('Flutterando')
-class Developer{
-  late String username;
-  late String name;
-  late String email;
-  late List<String> social;
-  late Map<String, dynamic> code;
-  
-  Developer(){
-    username = 'toshiossada';
-    name = 'Toshi Ossada';
-    email = 'toshiossada@gmail.com';
-    social = [
-	    'https://toshiossada.dev/',	
-	    'https://www.linkedin.com/in/toshiossada/',	
-	    'https://toshiossada.medium.com/',
-	    'https://instagram.com/toshiossada',
-	    'https://www.facebook.com/ToshiOssada/',
-    ];
-    code = {
-        'mobile': ['Flutter'],
-        'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript'],
-        'backend': ['.NET', 'Shelf', 'PHP'],
-        'database': ['SQL SERVER', 'MySQL', 'Oracle', 'Mongo DB'],
-        'devops': ['Docker','GitHub Actions'],
-        'tools': ['GIT', 'GitHub', 'GitLab', 'BitBucket', 'SVN', 'Azure DevOps'],
-        'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture']
-    };  
-  }
+class Developer {
+  final String username;
+  final String name;
+  final String website;
+  final String email;
+  final List<String> social;
+  final Map<String, dynamic> code;
+
+  Developer()
+      : username = 'toshiossada',
+        name = 'Toshi Ossada',
+        website = 'toshiossada.dev',
+        email = 'toshiossada@toshiossda.dev',
+        social = [
+          'https://toshiossada.dev/',
+          'https://www.linkedin.com/in/toshiossada/',
+          'https://toshiossada.medium.com/',
+          'https://instagram.com/toshiossada',
+          'https://www.facebook.com/ToshiOssada/',
+        ],
+        code = {
+          'mobile': ['Flutter'],
+          'frontend': ['Flutter', 'HTML', 'CSS', 'JavaScript'],
+          'backend': ['.NET', 'Shelf', 'PHP'],
+          'database': ['SQL SERVER', 'MySQL', 'Oracle', 'Mongo DB'],
+          'devops': ['Docker', 'GitHub Actions'],
+          'tools': [
+            'GIT',
+            'GitHub',
+            'GitLab',
+            'BitBucket',
+            'SVN',
+            'Azure DevOps'
+          ],
+          'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'Clean Archtecture']
+        };
 }
+	
+```
 
 

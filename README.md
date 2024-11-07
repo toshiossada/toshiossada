@@ -37,13 +37,14 @@ https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&l
 
 
 ```dart
-@CoOrganizer('Flutterando')	
+@Founder('Flutter Brasil')	
 class Developer {
   final String username;
   final String name;
   final String website;
   final String email;
   final List<String> social;
+  final List<String> awards;
   final Map<String, dynamic> code;
 
   Developer()
@@ -51,6 +52,10 @@ class Developer {
         name = 'Toshi Ossada',
         website = 'toshiossada.dev',
         email = 'toshiossada@toshiossda.dev',
+        awards = [
+          'Microsoft Most Valuable Professional',
+          'Google Developer Expert',
+        ],
         social = [
           'https://toshiossada.dev/',
           'https://www.linkedin.com/in/toshiossada/',

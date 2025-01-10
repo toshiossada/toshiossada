@@ -18,7 +18,7 @@
   <a href="http://toshiossada.dev/"><img align="right" alt="Toshi-yoda" height="120"   src="https://avatars.githubusercontent.com/u/2637049?v=4"></a>
 </div>
 <div>
- <a src="https://developers.google.com/profile/u/toshiossada"?<img src="https://github.com/user-attachments/assets/585bde56-1e54-4f21-9672-80f3386aa411" alt="GDE Flutter Dart badges" width="200" style="vertical-align: top;margin: 40px 0;width: 200px;"></a>
+ <a src="https://developers.google.com/profile/u/toshiossada"><img src="https://github.com/user-attachments/assets/585bde56-1e54-4f21-9672-80f3386aa411" alt="GDE Flutter Dart badges" width="200" style="vertical-align: top;margin: 40px 0;width: 200px;"></a>
  <a src="https://mvp.microsoft.com/pt-BR/MVP/profile/670f6b6b-0adf-498c-bb2d-d80b193d4e5d"><img src="https://github.com/user-attachments/assets/3fb1a930-e5ed-4a2c-b3bf-71bf8e347c76" alt="MVP badges" style="width: 100px;"/></a>
 </div>
 

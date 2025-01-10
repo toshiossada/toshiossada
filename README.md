@@ -17,8 +17,9 @@
 
   <a href="http://toshiossada.dev/"><img align="right" alt="Toshi-yoda" height="120"   src="https://avatars.githubusercontent.com/u/2637049?v=4"></a>
 </div>
-  
-  
+
+![GDE Flutter Dart badges](https://github.com/user-attachments/assets/585bde56-1e54-4f21-9672-80f3386aa411)
+![MVP badges](https://github.com/user-attachments/assets/3fb1a930-e5ed-4a2c-b3bf-71bf8e347c76)
   ##
  
 <div> 

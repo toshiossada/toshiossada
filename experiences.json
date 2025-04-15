@@ -1,0 +1,158 @@
+{
+    "experiences": [
+        {
+            "company": "FARMÁCIAS APP By GrupoSC",
+            "start": "03/2024",
+            "end": null,
+            "role": "Líder Técnico Mobile ",
+            "description": [
+                "Liderança da equipe de desenvolvimento no projeto de aplicativo da Farmácias APP, atuando na distribuição e definição de tarefas e prioridades de desenvolvimento, acompanhando o progresso da equipe e garantindo a entrega dos prazos acordados, realizando reuniões de alinhamento e planejamento junto a equipe e atuando na resolução de conflitos.",
+                "Definição da visão técnica do aplicativo, garantindo escalabilidade e boas práticas, aplicando proatividade para antecipar desafios e propor melhorias contínuas.",
+                "Desenvolvimento e implementação de novas funcionalidades para o projeto.",
+                "Revisão de código e garantia da qualidade por meio de code reviews e testes.",
+                "Atuação na linha de frente de tomada de decisões estratégicas para a evolução do aplicativo, aplicando pensamento crítico para avaliar soluções e direcionar o desenvolvimento de forma eficaz.",
+                "Acompanhamento e suporte técnico à equipe, promovendo boas práticas de desenvolvimento."
+            ]
+        },
+        {
+            "company": "GRANTER",
+            "start": "06/2022",
+            "end": "10/2024",
+            "role": "Consultor Especialista Flutter",
+            "description": [
+                "Desenvolvimento e arquitetura de aplicativos móveis multiplataforma de alto desempenho.",
+                "Colaboração com stakeholders para traduzir requisitos de negócio em funcionalidades intuitivas e eficientes para o usuário.",
+                "Implementação de código limpo, escalável, seguindo as melhores práticas de desenvolvimento.",
+                "Integração de APIs e serviços externos para funcionalidades avançadas.",
+                "Suporte contínuo e otimização do desempenho dos aplicativos.",
+                "Mentoria e compartilhamento de conhecimento em Flutter, contribuindo para o crescimento da equipe."
+            ]
+        },
+        {
+            "company": "BEES (via Avantti)",
+            "start": "05/2022",
+            "end": "02/2024",
+            "role": "Líder Técnico Mobile",
+            "description": [
+                "Curadoria de projetos e identificação de novas oportunidades alinhadas às necessidades dos clientes.",
+                "Comunicação clara e objetiva sobre soluções técnicas e progresso dos projetos para stakeholders.",
+                "Desenvolvimento de aplicativos multiplataforma e Design Systems para grandes empresas, como TADA e Zé Delivery.",
+                "Implementação de Server Driven UI (SDUI) para proporcionar uma experiência de usuário mais dinâmica e personalizada.",
+                "Projeto e implementação de um Design System reutilizável, garantindo consistência e agilidade no desenvolvimento.",
+                "Colaboração com designers, engenheiros de back-end e gerentes de produto para otimizar processos e entregas.",
+                "Mentoria e suporte a desenvolvedores juniores, promovendo a troca de conhecimento dentro da equipe, aplicando empatia para compreender desafios e facilitar o aprendizado."
+            ]
+        },
+        {
+            "company": "CVC Corp (via ioasys)",
+            "start": "04/2021",
+            "end": "04/2022",
+            "role": "Flutter Specialist",
+            "description": [
+                "Desenvolvimento e manutenção de um aplicativo B2B e B2C completo utilizando Flutter, garantindo uma experiência eficiente e centrada no usuário.",
+                "Mentoria e orientação de desenvolvedores juniores por meio de revisões de código, sessões de compartilhamento de conhecimento e suporte técnico, aplicando comunicação eficaz para transmitir ideias de forma clara e construtiva.",
+                "Liderança na reformulação da arquitetura do aplicativo com princípios de arquitetura limpa, aumentando a manutenibilidade, escalabilidade e testabilidade do código.",
+                "Otimização do desempenho do aplicativo e uso eficiente dos recursos, garantindo uma experiência fluida e responsiva."
+            ]
+        },
+        {
+            "company": "MATERIALIZE",
+            "start": "11/2020",
+            "end": "12/2021",
+            "role": "Especialista Flutter ",
+            "description": [
+                "Desenvolvimento e implementação de aplicativos móveis multiplataforma de alta qualidade para diversos clientes.",
+                "Tradução de requisitos do cliente em soluções eficientes e centradas na experiência do usuário.",
+                "Forte experiência na construção de aplicativos Flutter com funcionamento otimizado para iOS e Android.",
+                "Superação de desafios técnicos por meio da implementação de soluções eficazes e escaláveis, aplicando resiliência para lidar com obstáculos e aprimorar continuamente o desenvolvimento.",
+                "Colaboração estreita com clientes e equipes multidisciplinares para garantir a entrega de produtos alinhados às necessidades do mercado, aplicando trabalho em equipe para integrar diferentes perspectivas e alcançar melhores resultados.",
+                "Utilização de widgets e bibliotecas Flutter para criar aplicativos interativos e ricos em funcionalidades. "
+            ]
+        },
+        {
+            "company": "IOB/AO3",
+            "start": "07/2019",
+            "end": "04/2021",
+            "role": "Analista Desenvolvedor de Sistemas Sênior",
+            "description": [
+                "Desenvolvimento e implementação de um sistema de auditoria eletrônica (SPED) para validação e certificação de arquivos digitais, otimizando processos e garantindo conformidade regulatória.",
+                "Liderança no desenvolvimento de aplicativos móveis multiplataforma com IA do IBM Watson, proporcionando soluções inovadoras e melhorando a experiência do usuário.",
+                "Expertise técnica em .NET 4.5, .NET Core, SQL Server, Angular, Flutter, JavaScript, CSS e HTML5, contribuindo para diversos projetos e superando desafios complexos.",
+                "Mentoria e orientação de desenvolvedores juniores, promovendo um ambiente colaborativo e incentivando o compartilhamento de conhecimento."
+            ]
+        },
+        {
+            "company": "FRIENDSBEE",
+            "start": "03/2019",
+            "end": "11/2020",
+            "role": "Analista Desenvolvedor de Sistemas Sênior",
+            "description": [
+                "Desenvolvimento e lançamento de um aplicativo de rede social para auxiliar usuários na resolução de desafios diários.",
+                "Implementação full-stack utilizando angular 6 (front-end), .NET Core (back-end) e MySQL (banco de dados).",
+                "Colaboração e acompanhamento de 100% das equipes multifuncionais para garantir alinhamento entre desenvolvimento, design e produto.",
+                "Otimização do desempenho do aplicativo, garantindo escalabilidade e uma experiência de usuário aprimorada."
+            ]
+        },
+        {
+            "company": "RAÍZEN",
+            "start": "01/2018",
+            "end": "07/2019",
+            "role": "Analista Desenvolvedor de Sistemas Sênior",
+            "description": [
+                "Garantia da confiabilidade e sustentabilidade de sistemas através da identificação e resolução de bugs.",
+                "Manutenção e otimização de sistemas desenvolvidos em .NET (MVC, WebForms e Core), jQuery e SQL Server.",
+                "Colaboração com equipes multifuncionais para resolução de problemas e implementação de melhorias.",
+                "Desenvolvimento full-stack, atuando na análise, testes e prevenção de falhas para reduzir interrupções nos sistemas, aplicando resolução de problemas para identificar e corrigir erros de forma eficiente."
+            ]
+        },
+        {
+            "company": "SAGE",
+            "start": "12/2016",
+            "end": "01/2018",
+            "role": "Analista Desenvolvedor de Sistemas Pleno",
+            "description": [
+                "Liderança no desenvolvimento e implementação do SPED, sistema de auditoria eletrônica para validação de arquivos contábeis e fiscais, garantindo conformidade regulatória e maior eficiência nos processos.",
+                "Atualização e implementação de módulos fiscais e contábeis (ECF, eSocial, Reinf) para manter o sistema alinhado às regulamentações vigentes.",
+                "Modernização da experiência do usuário, migrando aplicações de Silverlight para HTML5, utilizando Bootstrap, CSS3 e jQuery.",
+                "Desenvolvimento e manutenção de sistemas complexos com .NET 4.5, SQL Server, JavaScript, CSS e HTML5.",
+                "Colaboração com equipes multifuncionais para garantir a implementação eficiente do sistema de auditoria."
+            ]
+        },
+        {
+            "company": "Ci&T",
+            "start": "02/2012",
+            "end": "12/2013",
+            "role": "Engenheiro de Software Jr.)",
+            "description": [
+                "Integração de aplicações legadas com SAP na DPaschoal, utilizando VB3, .NET, PL/SQL e SQL Server, facilitando a troca de dados e melhorando a eficiência do sistema.",
+                "Desenvolvimento de melhorias no sistema de cotação de preços da Coca-Cola e no sistema de avaliação de funcionários da Makro, aplicando .NET e SQL Server.",
+                "Adaptação a múltiplas linguagens de programação e bancos de dados, garantindo flexibilidade e eficiência no desenvolvimento de soluções.",
+                "Contribuição ativa para o ambiente Scrum, participando de reuniões e colaborando com a equipe para otimizar entregas e processos."
+            ]
+        },
+        {
+            "company": "Gerencial Informática",
+            "start": "07/2011",
+            "end": "01/2012",
+            "role": "Desenvolvedor de Software",
+            "description": [
+                "Desenvolvimento e manutenção de aplicações em Delphi 5 e 7.",
+                "Utilização do banco de dados Firebird para armazenamento e recuperação de informações.",
+                "Conhecimento básico em PHP, com interesse em aprendizado e aprimoramento contínuo."
+            ]
+        },
+        {
+            "company": "PC TECH",
+            "start": "01/2006",
+            "end": "01/2008",
+            "role": "Programador",
+            "description": [
+                "Desenvolvimento e implementação de aplicações web utilizando PHP e MySQL.",
+                "Criação e manutenção de sites e aplicações com Joomla! CMS, garantindo um gerenciamento de conteúdo eficiente.",
+                "Participação em todas as etapas do ciclo de desenvolvimento, da análise de requisitos à implantação.",
+                "Colaboração com designers, gerentes de projeto e desenvolvedores para o sucesso dos projetos.",
+                "Desenvolvimento de fortes habilidades analíticas e de resolução de problemas."
+            ]
+        }
+    ]
+}

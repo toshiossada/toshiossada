@@ -1,0 +1,158 @@
+{
+    "experiences": [
+        {
+            "company": "FARMÁCIAS APP By GrupoSC",
+            "end": null,
+            "start": "03/2024",
+            "role": "Technical Lead Mobile ",
+            "description": [
+                "Led the development team for the Farmácias APP application project, distributing and defining tasks and development priorities, monitoring team progress, and ensuring delivery within agreed deadlines, conducting alignment and planning meetings with the team and resolving conflicts.",
+                "Defined the technical vision for the application, ensuring scalability and best practices, proactively anticipating challenges and proposing continuous improvements.",
+                "Developed and executed new features for the project.",
+                "Conducted code reviews and ensured quality through code reviews and testing.",
+                "Played a frontline role in strategic decision-making for application evolution, applying critical thinking to evaluate solutions and direct development effectively.",
+                "Provided technical guidance and support to the team, promoting development best practices."
+            ]
+        },
+        {
+            "company": "GRANTER",
+            "end": "10/2024",
+            "start": "06/2022",
+            "role": "Consultant Flutter Specialist",
+            "description": [
+                "Developed and architected high-performance, cross-platform mobile applications.",
+                "Worked together with stakeholders to translate business requirements into user-friendly features.",
+                "Applied clean, scalable code following best practices.",
+                "Integrated APIs and external services for advanced functionality.",
+                "Provided ongoing support and optimized app performance.",
+                "Mentored and shared knowledge in Flutter with the team."
+            ]
+        },
+        {
+            "company": "BEES (via Avantti)",
+            "end": "02/2024",
+            "start": "05/2022",
+            "role": "Technical Lead Mobile",
+            "description": [
+                "Curated projects and identified new opportunities aligned with client needs.  ",
+                "Communicated technical solutions and project progress clearly to stakeholders.",
+                "Developed cross-platform applications and design systems for major companies like TADA and Zé Delivery.",
+                "Implemented Server-Driven UI (SDUI) for a dynamic and personalized user experience.",
+                "Designed and carried a reusable design system, ensuring consistency and development agility.",
+                "Cooperated with designers, back-end engineers, and product managers to optimize processes and deliveries.",
+                "Mentored and supported junior developers, promoting knowledge sharing within the team."
+            ]
+        },
+        {
+            "company": "CVC Corp (via ioasys)",
+            "start": "04/2021",
+            "end": "04/2022",
+            "role": "Flutter Specialist",
+            "description": [
+                "Optimized application performance and resource utilization, ensuring a smooth and responsive experience.",
+                "Led the redesign of the application's architecture using clean architecture principles, increasing maintainability, scalability, and testability.",
+                "Mentored junior developers through code reviews, knowledge-sharing sessions, and technical support.",
+                "Developed and maintained a comprehensive B2B and B2C application using Flutter, ensuring an efficient and user-centric experience.Key Tools: Flutter, Dart, Server Driven UI, Jira, AWS e Adobe XD"
+            ]
+        },
+        {
+            "company": "MATERIALIZE",
+            "start": "11/2020",
+            "end": "12/2021",
+            "role": "Flutter Specialist ",
+            "description": [
+                "Developed and performed high-quality, cross-platform mobile applications for various clients.",
+                "Translated client requirements into efficient, user-centric solutions.",
+                "Built Flutter applications optimized for iOS and Android.",
+                "Effected effective and scalable solutions to technical challenges.",
+                "Effected with clients and multidisciplinary teams to deliver market-aligned products.",
+                "Utilized Flutter widgets and libraries to create interactive, feature-rich applications. "
+            ]
+        },
+        {
+            "company": "IOB/AO3",
+            "start": "07/2019",
+            "end": "04/2021",
+            "role": "Senior Systems Analyst Developer",
+            "description": [
+                "Developed and orchestrated an electronic audit system (SPED) for validating and certifying digital files, optimizing processes, and ensuring regulatory compliance.",
+                "Led the development of cross-platform mobile applications with IBM Watson AI, providing innovative solutions and improving user experience.",
+                "Applied technical expertise in .NET 4.5, .NET Core, SQL Server, Angular, Flutter, JavaScript, CSS, and HTML5 to various projects.",
+                "Mentored junior developers, fostering a collaborative environment and encouraging knowledge sharing."
+            ]
+        },
+        {
+            "company": "FRIENDSBEE",
+            "start": "03/2019",
+            "end": "11/2020",
+            "role": "Senior Systems Analyst Develope",
+            "description": [
+                "Developed and builded a social network application to help users solve daily challenges.",
+                "Conducted full-stack development using Angular 6 (front-end), .NET Core (back-end), and MySQL (database).",
+                "Collaboration and monitoring of 100% of multifunctional teams to ensure alignment between development, design and product.",
+                "Optimized application performance, ensuring scalability and an enhanced user experience."
+            ]
+        },
+        {
+            "company": "RAÍZEN",
+            "start": "01/2018",
+            "end": "07/2019",
+            "role": "Senior Systems Analyst Developer",
+            "description": [
+                "Ensured system reliability and sustainability by identifying and resolving bugs.",
+                "Upheld and optimized systems developed in .NET (MVC, WebForms, and Core), jQuery, and SQL Server.",
+                "Cooperated with cross-functional teams to resolve problems and implement improvements.",
+                "Performed full-stack development, including analysis, testing, and failure prevention to reduce system interruptions."
+            ]
+        },
+        {
+            "company": "SAGE",
+            "start": "12/2016",
+            "end": "01/2018",
+            "role": "Systems Analyst Developer",
+            "description": [
+                "Led the development and implementation of SPED, an electronic audit system for validating accounting and tax files, ensuring regulatory compliance and greater process efficiency.",
+                "Updated and integrated fiscal and accounting modules (ECF, eSocial, Reinf) to keep the system aligned with current regulations.",
+                "Modernized the user experience by migrating applications from Silverlight to HTML5 using Bootstrap, CSS3, and jQuery.",
+                "Kept up complex systems with .NET 4.5, SQL Server, JavaScript, CSS, and HTML5.",
+                "Partnered with cross-functional teams to ensure efficient implementation of the audit system."
+            ]
+        },
+        {
+            "company": "Ci&T",
+            "start": "02/2012",
+            "end": "12/2013",
+            "role": "Software Engineer Jr.",
+            "description": [
+                "Integrated legacy applications with SAP at DPaschoal using VB3, .NET, PL/SQL, and SQL Server, facilitating data exchange and improving system efficiency.",
+                "Developed improvements in Coca-Cola's price quote system and Makro's employee evaluation system using .NET and SQL Server.",
+                "Adapted to multiple programming languages and databases, ensuring flexibility and efficiency in solution development.",
+                "Contributed actively to the Scrum environment, participating in meetings and collaborating with the team to optimize deliveries and processes."
+            ]
+        },
+        {
+            "company": "Gerencial Informática",
+            "start": "07/2011",
+            "end": "01/2012",
+            "role": "Software Developer",
+            "description": [
+                "Developed and preserved applications in Delphi 5 and 7.",
+                "Used the Firebird database for information storage and retrieval.",
+                "Gained basic knowledge in PHP, with an interest in continuous learning and improvement."
+            ]
+        },
+        {
+            "company": "PC TECH",
+            "start": "01/2006",
+            "end": "01/2008",
+            "role": "Programmer",
+            "description": [
+                "Developed and Engineered web applications using PHP and MySQL.",
+                "Created and serviced websites and applications with Joomla! CMS, ensuring efficient content management.",
+                "Participated in all stages of the development cycle, from requirement analysis to deployment.",
+                "Collaborated with designers, project managers, and developers for project success.",
+                "Developed strong analytical and problem-solving skills."
+            ]
+        }
+    ]
+}
